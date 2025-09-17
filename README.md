@@ -29,7 +29,7 @@ Constraints
  <img width="837" height="741" alt="image" src="https://github.com/user-attachments/assets/0dd5a079-0ad9-4dff-b3b8-390edc8f6783" />
 
 # Question 3
-<img width="1321" height="756" alt="image" src="https://github.com/user-attachments/assets/96249525-2d54-47b7-9f9d-075f2de1a56a" />
+<img width="695" height="545" alt="image" src="https://github.com/user-attachments/assets/98286c3d-abec-469d-bf73-36c5108f9221" />
 
 # Question 4
 <img width="1883" height="869" alt="Screenshot 2025-09-17 191428" src="https://github.com/user-attachments/assets/3c5957da-ead3-40d6-a57c-68dcb8aeb279" />

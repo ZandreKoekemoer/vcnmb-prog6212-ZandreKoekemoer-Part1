@@ -1,7 +1,7 @@
 # Question 1
 The Contract Monthly Claim System is developed with a straightforward and open interface that lecturers, program coordinators, and academic managers may easily navigate.
-The colour scheme will be mostly straightforward, with white backgrounds and light grey panels. Blue buttons will be used for important duties such as filing or approving claims.
-This keeps the design clean and professional while being simple to implement in a.NET MVC project. The font will be a standard option  because these are typical system fonts that are easy to read.
+The colour scheme will be mostly straightforward, with white backgrounds and blue panels such as by the navigation also make use of bootstrap to give a cleaner look and feel. Blue buttons will be used for important duties such as filing or approving claims and red buttons for rejecting claims.
+This keeps the design clean and professional while being simple to implement in MVC project. The font will be a standard option  because these are typical system fonts that are easy to read.
 Navigation will be straightforward, with a top bar including connections to each role. Each page will have the same colors, buttons, and font style, making it easier to use and less likely to cause confusion.
 
 Each role’s view:

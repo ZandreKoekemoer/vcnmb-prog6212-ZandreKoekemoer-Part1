@@ -5,6 +5,7 @@ This keeps the design clean and professional while being simple to implement in 
 Navigation will be straightforward, with a top bar including connections to each role. Each page will have the same colors, buttons, and font style, making it easier to use and less likely to cause confusion.
 
 Each role’s view:
+
 •	Lecturers can file monthly claims, upload supporting documentation, and check the progress of their claims. The interface is straightforward, with forms for inputting hours worked, uploading documents, and filing claims in a single click.
 
 •	Coordinators can examine claims filed by lecturers, approve or reject them, and provide comments as needed. The interface displays all pending claims in a list manner, complete with approval action buttons.
@@ -32,9 +33,9 @@ Constraints
 <img width="695" height="545" alt="image" src="https://github.com/user-attachments/assets/98286c3d-abec-469d-bf73-36c5108f9221" />
 
 # Question 4
-<img width="1883" height="869" alt="Screenshot 2025-09-17 191428" src="https://github.com/user-attachments/assets/3c5957da-ead3-40d6-a57c-68dcb8aeb279" />
-<img width="1885" height="976" alt="Screenshot 2025-09-17 191436" src="https://github.com/user-attachments/assets/1927291a-826e-4c8e-8fba-39adf3c5816b" />
-<img width="1854" height="889" alt="Screenshot 2025-09-17 191447" src="https://github.com/user-attachments/assets/8159a32a-232c-4f38-a40d-f30e3c5c2892" />
+<img width="1883" height="869" alt="Screenshot 2025-09-17 191428" src="https://github.com/user-attachments/assets/bf046efb-964c-41b7-b092-9161e83fca49" />
+<img width="1897" height="999" alt="Screenshot 2025-09-17 230747" src="https://github.com/user-attachments/assets/62f473d9-7f2c-4031-824d-1d96e78966b1" />
+<img width="1916" height="915" alt="Screenshot 2025-09-17 230758" src="https://github.com/user-attachments/assets/dc86656a-1627-4c5c-b4a2-da9c9a965110" />
 
 # Reference
 

@@ -35,3 +35,10 @@ Constraints
 <img width="1883" height="869" alt="Screenshot 2025-09-17 191428" src="https://github.com/user-attachments/assets/3c5957da-ead3-40d6-a57c-68dcb8aeb279" />
 <img width="1885" height="976" alt="Screenshot 2025-09-17 191436" src="https://github.com/user-attachments/assets/1927291a-826e-4c8e-8fba-39adf3c5816b" />
 <img width="1854" height="889" alt="Screenshot 2025-09-17 191447" src="https://github.com/user-attachments/assets/8159a32a-232c-4f38-a40d-f30e3c5c2892" />
+
+# Reference
+
+Bootstrap. 2023. Bootstrap 5 Documentation.
+Available at:
+<https: //getbootstrap.com/docs/5.3/getting-started/introduction />
+[Accessed 16 September 2025].
